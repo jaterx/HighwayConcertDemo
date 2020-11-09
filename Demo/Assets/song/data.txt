@@ -1,0 +1,60 @@
+Pixels per 4 sec: 2220 pixels/4s
+Pixels per sec: 555 pixel/s
+
+Chasing Cars
+General BPM: 104
+Time Signature: 4/4
+Seconds Per Time Signature: 0.5769
+Seconds Per Bar: 2.3077
+Plucked Rhythms: 0 at 0th, Avoidable
+Final Song Speed: 157.0755
+
+Come Out of the Shade
+General BPM: 100
+Time Signature: 4/4
+Seconds Per Time Signature: 0.6
+Seconds Per Bar: 2.4
+Plucked Rhythms: Avoidable
+Final Song Speed: 166.5
+
+Cast Away
+General BPM: 105
+Time Signature: 4/4
+Seconds Per Time Signature: 0.5714
+Seconds Per Bar: 2.2857
+Plucked Rhythms: Avoidable
+Final Song Speed: 158.5714
+
+Safe and Sound
+General BPM: 118
+Time Signature: 4/4
+Seconds Per Time Signature: 0.5085
+Seconds Per Bar: 2.0339
+Plucked Rhythms: Avoidable
+Final Song Speed: 141.1088
+
+Animal
+General BPM: 148
+Time Signature: 4/4
+Seconds Per Time Signature: 0.4054
+Seconds Per Bar: 1.6216
+Plucked Rhythms: Avoidable
+Final Song Speed: 112.5
+
+Carried Away
+General BPM: 120
+Time Signature: 4/4
+Seconds Per Time Signature: 0.5
+Seconds Per Bar: 2
+Plucked Rhythms: Avoidable
+Final Song Speed: 138.75
+
+Vote
+General BPM: 98
+Time Signature: 4/4
+Seconds Per Time Signature: 0.6122
+Seconds Per Bar: 2.4490
+Plucked Rhythms: Avoidable
+Final Song Speed: 169.8980
+
+
